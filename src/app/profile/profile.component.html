@@ -1,0 +1,22 @@
+<p-card class="flex flex-column m-7">
+    <div class="pt-3 pl-5">
+        <div class="font-bold mb-2">Avatar</div>
+
+        <div class="flex align-items-center mb-3">
+            <p-avatar [image]="mock?.avatar" class="mr-4" shape="circle" size="xlarge"></p-avatar>
+
+            <p-fileUpload #fubauto mode="basic" name="demo[]" url="./upload.php" accept="image/*" [auto]="true"
+                chooseLabel="Upload Image"></p-fileUpload>
+        </div>
+
+        <div class="font-bold mb-2">Name</div>
+
+        <input [(ngModel)]="mock.userName" class="mb-3" pInputText type="text">
+
+        <div class="font-bold mb-2">Role</div>
+
+        <p-dropdown [(ngModel)]="mock.role" [options]="options" [showClear]="true" styleClass="mb-5"></p-dropdown>
+
+        <p-button label="Save Changes" styleClass="flex"></p-button>
+    </div>
+</p-card>

@@ -1,0 +1,55 @@
+{
+    "userName": "Gabriel Marinescu",
+    "role": "manager",
+    "avatar": "assets/manager.svg",
+    "activity": [
+        {
+            "name": "Microsoft Outlook",
+            "timestamp": "2022-06-17 09:00:00",
+            "project": "google",
+            "category": "COMMUNICATION",
+            "icon": "https://static.cdnlogo.com/logos/o/82/outlook.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Teams",
+            "timestamp": "2022-06-17 09:30:00",
+            "project": "google",
+            "category": " communication",
+            "icon": "https://static.cdnlogo.com/logos/m/22/microsoft-teams.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Intellij",
+            "timestamp": "2022-06-17 12:30:00",
+            "project": "google",
+            "category": "development",
+            "icon": "https://static.cdnlogo.com/logos/i/95/intellij-idea.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Personal stuff",
+            "timestamp": "2022-06-17 13:30:00",
+            "project": "",
+            "category": "personalTime",
+            "icon": "https://static.cdnlogo.com/logos/t/73/tableau-software.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Intellij",
+            "timestamp": "2022-06-17 14:30:00",
+            "project": "google",
+            "category": "development",
+            "icon": "https://static.cdnlogo.com/logos/i/95/intellij-idea.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Logout",
+            "timestamp": "2022-06-17 18:00:00",
+            "project": "google",
+            "category": "development",
+            "icon": "https://static.cdnlogo.com/logos/t/73/tableau-software.svg",
+            "includedInBooking": false
+        }
+    ]
+}

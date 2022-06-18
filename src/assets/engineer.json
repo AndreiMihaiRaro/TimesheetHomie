@@ -1,0 +1,87 @@
+{
+    "userName": "Andrei Mihai",
+    "role": "Engineer",
+    "avatar": "assets/engineer.png",
+    "activity": [
+        {
+            "name": "Outlook - Mails",
+            "timestamp": "2022-06-17 09:00:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "COMMUNICATION",
+            "icon": "https://static.cdnlogo.com/logos/o/82/outlook.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Intellij",
+            "timestamp": "2022-06-17 09:30:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "DEVELOPMENT",
+            "icon": "https://static.cdnlogo.com/logos/i/95/intellij-idea.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Meetings - Daily",
+            "timestamp": "2022-06-17 10:30:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "MEETINGS",
+            "icon": "https://static.cdnlogo.com/logos/m/22/microsoft-teams.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Intellij",
+            "timestamp": "2022-06-17 11:00:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "DEVELOPMENT",
+            "icon": "https://static.cdnlogo.com/logos/i/95/intellij-idea.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Launch break",
+            "timestamp": "2022-06-17 12:30:00",
+            "project": "",
+            "category": "",
+            "icon": "https://cdn.xxl.thumbs.canstockphoto.com/personal-time-concept-on-clock-for-me-stock-illustrations_csp6851527.jpg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Mails",
+            "timestamp": "2022-06-17 13:30:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "COMMUNICATION",
+            "icon": "https://static.cdnlogo.com/logos/o/82/outlook.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "State of the line",
+            "timestamp": "2022-06-17 14:00:00",
+            "project": "BL Cloud",
+            "category": "MEETINGS",
+            "icon": "https://static.cdnlogo.com/logos/o/82/outlook.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Intellij",
+            "timestamp": "2022-06-17 15:00:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "DEVELOPMENT",
+            "icon": "https://static.cdnlogo.com/logos/i/95/intellij-idea.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Teams - peer programming",
+            "timestamp": "2022-06-17 17:00:00",
+            "project": "DZ Bank - NIK & DSCR",
+            "category": "DEVELOPMENT",
+            "icon": "https://static.cdnlogo.com/logos/o/82/outlook.svg",
+            "includedInBooking": false
+        },
+        {
+            "name": "Logout",
+            "timestamp": "2022-06-17 18:00:00",
+            "project": "",
+            "category": "development",
+            "icon": "https://static.cdnlogo.com/logos/t/73/tableau-software.svg",
+            "includedInBooking": false
+        }
+    ]
+}
